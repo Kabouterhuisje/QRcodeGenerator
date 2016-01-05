@@ -1,0 +1,16 @@
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\bin\Debug\QRcodeCreator.exe.config
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\bin\Debug\QRcodeCreator.exe
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\bin\Debug\QRcodeCreator.pdb
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.csprojResolveAssemblyReference.cache
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.Form1.resources
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.Properties.Resources.resources
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.csproj.GenerateResource.Cache
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.exe
+c:\users\dennis\documents\visual studio 2013\Projects\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.pdb
+C:\Users\Dennis\Documents\GitHub\QRcodeCreator\QRcodeCreator\bin\Debug\QRcodeCreator.exe.config
+C:\Users\Dennis\Documents\GitHub\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.exe
+C:\Users\Dennis\Documents\GitHub\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.pdb
+C:\Users\Dennis\Documents\GitHub\QRcodeGenerator\QRcodeCreator\QRcodeCreator\bin\Debug\QRcodeCreator.exe.config
+C:\Users\Dennis\Documents\GitHub\QRcodeGenerator\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.exe
+C:\Users\Dennis\Documents\GitHub\QRcodeGenerator\QRcodeCreator\QRcodeCreator\obj\Debug\QRcodeCreator.pdb
