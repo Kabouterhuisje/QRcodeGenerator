@@ -54,5 +54,6 @@ namespace QRcodeCreator
             QRCodeDecoder decoder = new QRCodeDecoder();
             MessageBox.Show(decoder.decode(new QRCodeBitmapImage(pbQR.Image as Bitmap)));
         }
+
     }
 }
